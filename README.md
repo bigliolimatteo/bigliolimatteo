@@ -6,18 +6,6 @@
 - 🌱 Learning all about **Open Source**
 - ⚡️ Fun fact: I love listening to music every minute of my day 🎵
 
-<br>
-
-## :chart_with_upwards_trend: Some stats :chart_with_upwards_trend:
-
-<p align="center" width="100%">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bigliolimatteo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Stats">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigliolimatteo&hide=Jupyter%20Notebook&layout=compact">
-</p>
-
-[@credits](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
 ## :notes: Enjoy some music :notes:
 
 <p align="center">
