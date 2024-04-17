@@ -1,8 +1,8 @@
 ## 👋 Hi there 👋
 
-#### I'm a Data Engineer working in Milan, Italy.
+#### I'm a Data Engineer working in Barcelona, Spain.
 
-- 🏢 I'm currently working as a Data Engineer at [Subito](https://www.subito.it/)
+- 🏢 I'm currently working as a Data Engineer at [Adevinta](https://www.adevinta.com/)
 - 🌱 Learning all about **Open Source**
 - ⚡️ Fun fact: I love listening to music every minute of my day 🎵
 
