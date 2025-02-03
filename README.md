@@ -2,7 +2,7 @@
 
 #### I'm a Senior Data Engineer working in Barcelona, Spain.
 
-- 🏢 I'm currently working as a Senior Data Engineer at [Adevinta](https://www.adevinta.com/)
+- 🏢 I'm currently working as a Machine Learning Data Engineer at [Preply](https://preply.com/)
 - 🌱 Learning all about **Open Source**
 - ⚡️ Fun fact: I love listening to music every minute of my day 🎵
 
